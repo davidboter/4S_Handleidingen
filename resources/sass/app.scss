@@ -30,3 +30,22 @@
     color: #ccc;
     content: "/\00a0";
 }
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .row{
+    justify-content: center;
+  }
+  
+  .container > ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
