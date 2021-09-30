@@ -41,6 +41,8 @@ footer{
     display: block;
     text-align: center;
     padding-top: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
   }
   
   .row{

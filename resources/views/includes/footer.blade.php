@@ -4,6 +4,10 @@
 	  © {{ __('misc.copyright') }}
     <p>{{ __('misc.about_us') }}</p>
   </div>
+  <div class="contact">
+    {{ __('misc.contact') }}
+    <p>{{ __('misc.number') }}</p>
+  </div>
 </footer>
 
 
