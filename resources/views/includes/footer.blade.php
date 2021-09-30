@@ -8,6 +8,13 @@
     {{ __('misc.contact') }}
     <p>{{ __('misc.number') }}</p>
   </div>
+  <div class="socials">
+    <p>{{ __('misc.socials')}}</p>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+    <img src="https://img.icons8.com/color/48/000000/reddit.png"/>
+  </div>
 </footer>
 
 
